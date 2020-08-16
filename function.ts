@@ -1,6 +1,6 @@
 
 function main(prop : string){
-    return prop;
+    return prop + "true genius you might have found it";
 }
 
 
